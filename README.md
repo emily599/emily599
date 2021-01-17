@@ -1,3 +1,5 @@
-### Hi there 👋
+I like to snowboard. 🏂 ❄️
 
-I like to snowboard.
+I have two cats, Mimi and King 😸 🐈
+
+# `git yeet`
